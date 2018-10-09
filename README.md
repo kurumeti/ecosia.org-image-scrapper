@@ -14,8 +14,8 @@ Then run, in the project folder run the following command
 An that is it :-)
 
 ### Options
-- `[pathToTheCSVFile]`            The path to the csv file that contains queries to scrape from ecosia.org (default: ./veg.csv)
-- `[numberOfPicturesPerQuery]`    Number of pictures to scrape per query. (default: 4)
+- `[pathToTheCSVFile]`            The path to the csv file that contains queries to scrape from ecosia.org `default: ./veg.csv`
+- `[numberOfPicturesPerQuery]`    Number of pictures to scrape per query `default: 4`
 
 
 ### License
