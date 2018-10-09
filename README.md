@@ -13,7 +13,7 @@ Then run, in the project folder run the following command
     // for example
     $ node scrap ./veg.csv 5
 ```
-An that is it :-)
+An that's it :-)
 
 ### Options
 - `[pathToTheCSVFile]`            The path to the csv file that contains queries to scrape from ecosia.org `default: ./veg.csv`
