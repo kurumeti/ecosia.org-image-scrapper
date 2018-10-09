@@ -1,0 +1,19 @@
+{
+  "name": "EcosiaImageScrapper",
+  "version": "1.0.0",
+  "description": "Scrapes Images using queries stored in a csv file from ecosia.org and group them automatically into folders",
+  "main": "scrapper.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "delete": "^1.1.0",
+    "execution-time": "^1.2.0",
+    "image-downloader": "^3.4.1",
+    "node-html-parser": "^1.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Aremu <victor.olorunbunmi@gmail.com>",
+  "license": "MIT"
+}
