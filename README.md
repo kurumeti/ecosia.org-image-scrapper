@@ -3,13 +3,15 @@ Scrapes and download images from http://ecosia.org with list of search queries s
 ## How to use
 Clone this repository and the install the dependencies.
 ```
-    npm install
+    $ git clone https://github.com/ahkohd/ecosia.org-image-scrapper.git
+    $ cd ecosia.org-image-scrapper
+    $ npm install
 ```
 Then run, in the project folder run the following command
 ```
-    // node scrap [pathToTheCSVFile] [numberOfPicturesPerQuery]
+    // $ node scrap [pathToTheCSVFile] [numberOfPicturesPerQuery]
     // for example
-    node scrap ./veg.csv 5
+    $ node scrap ./veg.csv 5
 ```
 An that is it :-)
 
