@@ -1,4 +1,4 @@
-Scrapes and download images with from http://ecosia.org with list of search queries stored in .csv file and then groups them automatically into there appropriate folders. Created the scrapper while I was collaborating with @Emmarex on Vegetables recognition and classification Model to make a dataset to use to train the AI.
+Scrapes and download images from http://ecosia.org with list of search queries stored in .csv file and then groups them automatically into there appropriate folders. Created the scrapper while I was collaborating with @Emmarex on Vegetables recognition and classification Model to make a dataset to use to train the AI.
 
 ## How to use
 Clone this repository and the install the dependencies.
