@@ -1,0 +1,1 @@
+The scrapper stores the scraped images in this folder
