@@ -4,7 +4,7 @@
   "description": "Scrapes Images using queries stored in a csv file from ecosia.org and group them automatically into folders",
   "main": "scrapper.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "delete": "^1.1.0",
     "execution-time": "^1.2.0",
     "image-downloader": "^3.4.1",
