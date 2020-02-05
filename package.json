@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "delete": "^1.1.0",
-    "execution-time": "^1.2.0",
+    "execution-time": "^1.4.1",
     "image-downloader": "^3.4.1",
     "node-html-parser": "^1.1.10"
   },
